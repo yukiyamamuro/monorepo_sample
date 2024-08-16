@@ -1,0 +1,54 @@
+{
+  "checksums": [
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.12/lefthook_1.7.12_Linux_arm64.gz",
+      "checksum": "78C28BC9475D01756DC1DBF846BAE29F4FC7611260EA4660CBA6327511BD27AA",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.12/lefthook_1.7.12_Linux_x86_64.gz",
+      "checksum": "C04B31249DA68641CED89E0B4291464B51FDF85B0CCD89CF1C80D551CCD46FF7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.12/lefthook_1.7.12_MacOS_arm64.gz",
+      "checksum": "3FD16320BC2DE548402B8E0626DE04CB0F89E531D4CBD92C363234A64DA363C6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.12/lefthook_1.7.12_MacOS_x86_64.gz",
+      "checksum": "94F6851CD88F102143A88D8CB79D89CDB51EADA5F0EBC3A02BDE9BB509A6440A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.12/lefthook_1.7.12_Windows_arm64.gz",
+      "checksum": "B76268D2424939B4EF55EEA984AEFFBE83E4CD00EF5E16F923AFD0DBA3023428",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.12/lefthook_1.7.12_Windows_x86_64.gz",
+      "checksum": "E92ECCB5075DDB2E754AE230F8DA95F26CB6024CE6C7F0D33687C61CEF4B5B8A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/oven-sh/bun/bun-v1.1.12/bun-darwin-aarch64.zip",
+      "checksum": "57611B18175679D502276A0E19455D4AEE680FDD3A385CEDA9A74AE6A9C4161E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/oven-sh/bun/bun-v1.1.12/bun-darwin-x64.zip",
+      "checksum": "70374E64C021ECEC40C72F2C9747C1B80D36E10181F3D657F08D9161E3E2C070",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/oven-sh/bun/bun-v1.1.12/bun-linux-x64.zip",
+      "checksum": "FA6FAD58BFABDC0345B951B08900D15C3CE5D614C04487D580E82FCD983E0C89",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.213.0/registry.yaml",
+      "checksum": "9131220C9DF8FEFAA0A376ADC2F78E7E07DF143FCC8F86933A1A7BBE6E951081983A77D0FA53059F15633940C41A12FAB42F6B62BD761BECE05DB9F7DA1E6889",
+      "algorithm": "sha512"
+    }
+  ]
+}

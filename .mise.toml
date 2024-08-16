@@ -1,0 +1,6 @@
+[tools]
+node = "22.2.0"
+bun = "1.1.22"
+
+[env]
+mise.file = ".env"
