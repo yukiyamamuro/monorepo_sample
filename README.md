@@ -13,3 +13,9 @@
 aqua i
 mise i
 ```
+
+## Reference
+- [turbo](https://turbo.build/)
+- [biome](https://biomejs.dev/ja/)
+- [lefthook](https://evilmartians.com/chronicles/lefthook-knock-your-teams-code-back-into-shape)
+- [renovate](https://docs.renovatebot.com/)
