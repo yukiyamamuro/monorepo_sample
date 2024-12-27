@@ -4,11 +4,15 @@ import * as schema from "./db/schema";
 import { db } from "./db/db";
 
 export default defineHub({
-	db,
-	collections: [
-		defineCollection({
-			slug: "users",
-			schema: schema.users,
-		}),
-	],
+  db,
+  collections: [
+    defineCollection({
+      slug: "users",
+      schema: schema.users,
+    }),
+    defineCollection({
+      slug: "workspaces",
+      schema: schema.workspaces,
+    }),
+  ],
 });
